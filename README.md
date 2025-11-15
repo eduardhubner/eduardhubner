@@ -14,7 +14,6 @@ I focus on **mechanistic interpretability** and **model evaluation**, working to
 ## Research Interests
 
 - Mechanistic Interpretability
-- AI Safety & Alignment
 - Adversarial Robustness
 - Model Evals
 - Philosophy of AI
