@@ -1,22 +1,20 @@
 # Hi, I'm Eduard 👋
 
-Research-oriented Computer Science Master's student at TU Berlin with a background in Philosophy.
-
-## About Me
-
-I focus on **mechanistic interpretability** and **model evaluation**, working to understand artificial neural networks to ensure their safety and security. Particularly interested in connections between machine learning, philosophy of mind, and epistemology.
+Computer Science Master's student at TU Berlin with a background in Philosophy, working at the intersection of AI safety and interpretability.
 
 ## Current Work
 
-- 🔬 Bachelor Thesis: Detecting and scoring polysemanticity in Large Language Models
-- 👨‍🏫 Teaching Assistant for "Cognitive Algorithms" (Introduction to Machine Learning) at TU Berlin
+- 🎓 Bachelor Thesis: Detecting and scoring polysemanticity in Large Language Models
+- 👨‍🏫 Teaching Assistant for Introduction to Machine Learning at TU Berlin
 
-## Research Interests
 
-- Mechanistic Interpretability
-- Adversarial Robustness
-- Model Evals
-- Philosophy of AI
+## What I'm Exploring
+
+I'm particularly interested in understanding how AI systems work internally and ensuring they're safe and robust. Currently focused on:
+- Mechanistic interpretability and model evaluation
+- Adversarial robustness and AI security
+- Probabilistic approaches to machine learning
+- Connections between AI and philosophy of mind
 
 ## 📫 Get in Touch
 
