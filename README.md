@@ -23,4 +23,4 @@ I focus on **mechanistic interpretability** and **model evaluation**, working to
 
 - Email: eduard-huebner@gmx.de
 - LinkedIn: https://www.linkedin.com/in/eduard-h%C3%BCbner-9b3400154?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
-- CV: [Link to CV repo when you create it]
+- CV: 
