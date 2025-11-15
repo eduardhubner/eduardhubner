@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Eduard 👋
 
-<!--
-**eduardhubner/eduardhubner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Research-oriented Computer Science Master's student at TU Berlin with a background in Philosophy.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I focus on **mechanistic interpretability** and **model evaluation**, working to understand artificial neural networks to ensure their safety and security. Particularly interested in connections between machine learning, philosophy of mind, and epistemology.
+
+## Current Work
+
+- 🔬 Bachelor Thesis: Detecting and scoring polysemanticity in Large Language Models
+- 👨‍🏫 Teaching Assistant for "Cognitive Algorithms" (Introduction to Machine Learning) at TU Berlin
+
+## Research Interests
+
+- Mechanistic Interpretability
+- AI Safety & Alignment
+- Adversarial Robustness
+- Model Evals
+- Philosophy of AI
+
+## 📫 Get in Touch
+
+- Email: eduard-huebner@gmx.de
+- LinkedIn: https://www.linkedin.com/in/eduard-h%C3%BCbner-9b3400154?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+- CV: [Link to CV repo when you create it]
