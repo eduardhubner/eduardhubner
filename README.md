@@ -4,7 +4,7 @@ Computer Science Master's student at TU Berlin with a background in Philosophy.
 
 ## Current Work
 
-- 🎓 Bachelor Thesis: Detecting and scoring polysemanticity in Large Language Models [View here}(https://github.com/eduardhubner/BA-prism)
+- 🎓 Bachelor Thesis: Detecting and scoring polysemanticity in Large Language Models [View here](https://github.com/eduardhubner/BA-prism)
 - 👨‍🏫 Teaching Assistant for Introduction to Machine Learning at TU Berlin
 
 
