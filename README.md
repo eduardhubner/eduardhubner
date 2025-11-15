@@ -1,6 +1,6 @@
 # Hi, I'm Eduard 👋
 
-Computer Science Master's student at TU Berlin with a background in Philosophy, working at the intersection of AI safety and interpretability.
+Computer Science Master's student at TU Berlin with a background in Philosophy.
 
 ## Current Work
 
