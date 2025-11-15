@@ -11,9 +11,8 @@ Computer Science Master's student at TU Berlin with a background in Philosophy, 
 ## What I'm Exploring
 
 I'm particularly interested in understanding how AI systems work internally and ensuring they're safe and robust. Currently focused on:
-- Mechanistic interpretability and model evaluation
+- Mechanistic interpretability and Model Evaluation
 - Adversarial robustness and AI security
-- Probabilistic approaches to machine learning
 - Connections between AI and philosophy of mind
 
 ## 📫 Get in Touch
