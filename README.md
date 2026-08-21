@@ -13,5 +13,6 @@ Computer Science Master's student at TU Berlin with a background in Philosophy.
 ## 📫 Get in Touch
 
 - 📧 Email: [eduard-huebner@gmx.de](mailto:eduard-huebner@gmx.de)
+- University Email: [eduard.huebner@campus.tu-berlin.de](mailto:eduard.huebner@campus.tu-berlin.de)
 - 💼 LinkedIn: [Eduard Hübner](https://www.linkedin.com/in/eduard-hübner-9b3400154)
 - 📄 CV: [View here](https://github.com/eduardhubner/CV)
