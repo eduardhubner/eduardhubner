@@ -1,4 +1,4 @@
-# Hi, I'm Eduard 👋
+# Hi, I'm Eduard Hübner 👋
 
 Computer Science Master's student at TU Berlin with a background in Philosophy.
 
